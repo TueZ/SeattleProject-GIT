@@ -17,7 +17,7 @@ public class Player : MonoBehaviour
     {
         PlayerBody = GetComponent<Rigidbody2D>();
 
-        //hello Tue
+        //hello Tue jeg tester
 	}
 	
 	// Update is called once per frame
